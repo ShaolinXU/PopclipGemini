@@ -65,6 +65,6 @@ async function generateContent(input, options) {
 
 exports.actions = [{
   title: "Gemini Translate",
-  after: "paste-result",
+  after: "show-result",
   code: async (input, options) => generateContent(input, options),
 }];
