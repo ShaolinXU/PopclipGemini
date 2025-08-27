@@ -10,7 +10,7 @@
 // },
 // {
 //    identifier: model, label: 'model', type: multiple,
-//    values:['gemini-1.5-flash-latest','gemini-1.5-pro-latest','gemini-1.0-pro']
+//    values:['gemini-2.0-flash-lite','gemini-2.0-flash','gemini-2.5-flash-lite', 'gemini-2.5-flash']
 //  }, {
 //   identifier: prompt, label: 'Translate Prompt', type: string,
 //   defaultValue: "I will give you text content, you will rewrite it and translate the text into {lang} language. Keep the meaning the same. Do not alter the original structure and formatting outlined in any way. Only give me the output and nothing else.Now, using the concepts above, translate the following text:{input}",
